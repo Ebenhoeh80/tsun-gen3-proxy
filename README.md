@@ -7,6 +7,7 @@
 <p align="center">integration</p>
 <p align="center">
     <a href="https://opensource.org/licenses/BSD-3-Clause"><img alt="License: BSD-3-Clause" src="https://img.shields.io/badge/License-BSD_3--Clause-green.svg"></a>
+    <a href="https://github.com/sponsors/Ebenhoeh80"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/%E2%9D%A4%20Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"></a>
     <a href="https://www.python.org/downloads/release/python-3144/"><img alt="Supported Python versions" src="https://img.shields.io/badge/python-3.14-blue.svg"></a>
     <a href="https://aiomqtt.bo3hm.com/introduction.html"><img alt="Supported aiomqtt versions" src="https://img.shields.io/badge/aiomqtt-2.3.1-lightblue.svg"></a>
     <a href="https://libraries.io/pypi/aiocron"><img alt="Supported aiocron versions" src="https://img.shields.io/badge/aiocron-1.8-lightblue.svg"></a>
@@ -461,6 +462,26 @@ Legend
 ❗GEN3 Plus generation devices (e.g. MS-2000, DC-1000) can be recognized by their serial number. This starts with 'Y17' or 'Y47' for inverters and '410' for the DC-1000 battery storage system. In contrast, the serial number of GEN3 inverters begins with 'R17' or 'R47'.
 
 If you have one of these combinations with a red question mark, it would be very nice if you could send me a proxy trace so that I can carry out the detailed checks and adjust the device and system tests. [Ask here how to send a trace](https://github.com/s-allius/tsun-gen3-proxy/discussions/categories/traces-for-compatibility-check)
+
+## ❤️ Support this project
+
+<div align="center">
+
+**This fork is maintained in my free time; the original project is by [s-allius](https://github.com/s-allius/tsun-gen3-proxy). Any voluntary contribution covers time and test hardware.**
+
+Sponsoring is voluntary and does not buy support, features or response times. Every contribution, however small, helps. Thank you! 🙏
+
+<a href="https://github.com/sponsors/Ebenhoeh80">
+  <img src="https://img.shields.io/badge/%E2%9D%A4%20Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" height="42">
+</a>
+<a href="https://www.paypal.com/pool/9p84qTHCFr?sr=wccr">
+  <img src="https://img.shields.io/badge/%E2%9D%A4%20Donate%20via%20PayPal-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" height="42">
+</a>
+<a href="https://buymeacoffee.com/daneben">
+  <img src="https://img.shields.io/badge/%E2%98%95%20Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" height="42">
+</a>
+
+</div>
 
 ## License
 
